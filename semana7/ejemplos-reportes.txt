@@ -1,0 +1,8 @@
+{
+  "tipo": "Seguridad",
+  "descripcion": "Falta de iluminación en una calle residencial durante la noche"
+}
+{
+  "tipo": "Vías públicas",
+  "descripcion": "Hueco en la carretera que dificulta el tránsito de vehículos"
+}
